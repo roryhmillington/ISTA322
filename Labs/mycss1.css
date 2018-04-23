@@ -1,0 +1,71 @@
+
+
+			body {
+
+			margin: 96pt; 
+
+			background-color: #ddddff;
+
+			border: #3333ff inset 12px; 
+
+			padding 24px;}
+
+			a:link{
+
+				font-size:18pt;
+
+			font-family:fantasy;}
+
+			a:visited{
+
+				font-size:24pt;
+
+			font-family:fantasy;}
+
+			a:hover{
+
+				font-size:28pt;
+
+			font-family:monospace;}
+
+			
+
+			.odds{
+
+				font-family:serif;
+
+				font-variant: small-caps;
+
+				font-size: 24
+
+			}
+
+			.visited{
+
+				font-family:serif;
+
+				font-variant: small-caps;
+
+				font-size: 24
+
+			}
+
+			.hover{
+
+				font-family:serif;
+
+				font-variant: small-caps;
+
+				font-size: 24
+
+			}
+
+			.odds{
+
+				font-family:serif;
+
+				font-variant: small-caps;
+
+				font-size: 24
+
+			}
